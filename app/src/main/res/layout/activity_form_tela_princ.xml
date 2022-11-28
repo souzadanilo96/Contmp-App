@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/ctp"
+    tools:context=".FormTelaPrinc">
+
+    <TextView
+        android:id="@+id/BemVindo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bem Vindo"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="300dp"
+        />
+
+    <TextView
+        android:id="@+id/BemEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="30dp"
+        />
+
+    <TextView
+        android:id="@+id/BemName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:textSize="22sp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/bt_sair"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/exit"
+        android:textColor="@color/white"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textAllCaps="false"
+        android:backgroundTint="@color/black50"
+        app:strokeColor ="@color/white"
+        app:strokeWidth ="2dp"
+        app:cornerRadius ="10dp"
+        android:padding="5dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginStart="100dp"
+        android:layout_marginEnd="100dp"
+        />
+
+
+
+</LinearLayout>

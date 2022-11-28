@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "602852745523",
+    "project_id": "contemp-clone",
+    "storage_bucket": "contemp-clone.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602852745523:android:498fb4bb006dfcf49d5e46",
+        "android_client_info": {
+          "package_name": "com.example.contmp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602852745523-9n4h5ke9pvgri0a054gadnnbo2vnrvgd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.contmp",
+            "certificate_hash": "f3f92c409eca5892927c0429a8caa5edd8af80ad"
+          }
+        },
+        {
+          "client_id": "602852745523-59iko84r49fn35iuuvl1skr4pc1meqru.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfWXt5l9Jb2Ku4QGDCBbMWHGXyhgVkPRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602852745523-59iko84r49fn35iuuvl1skr4pc1meqru.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

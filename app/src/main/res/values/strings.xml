@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Contmp</string>
+    <string name="email_login">E-mail</string>
+    <string name="senha_login">Senha</string>
+    <string name="entre_login">Entrar</string>
+    <string name="cadastra">Cadastrar</string>
+    <string name="botton_cadastrar">Novo por Aqui? Inscreva-se agora.</string>
+    <string name="conta">Criar conta</string>
+    <string name="inf">Informe seu E-mail e Senha</string>
+    <string name="exit">Sair</string>
+    <string name="gg_entrar">Google</string>
+    <string name="fc_entrar">Facebook</string>
+
+</resources>
